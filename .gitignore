@@ -1,0 +1,6 @@
+result/
+sim/__pycache__/
+*.pyc
+*.vstf
+*.wlf
+transcript

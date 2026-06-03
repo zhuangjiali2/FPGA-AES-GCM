@@ -1,0 +1,15 @@
+rtl\lib\val_rdy_lib.v
+rtl\aes\aes_sbox.v
+rtl\aes\aes_sbox_bram.v
+rtl\aes\aes_sub_word_bram.v
+rtl\aes\aes_rcon.v
+rtl\aes\aes_round.v
+rtl\aes\aes_key_expand.v
+rtl\aes\aes_encrypt_pipe_cf.v
+rtl\aes\aes_encrypt_core_cf.v
+rtl\ghash\ghash_gf2_lib.v
+rtl\ghash\ghash_mul_koa_pipe_fixed.v
+rtl\ghash\ghash_foldN_stream.v
+rtl\gcm\aes_gcm_stream_engine.v
+rtl\gcm\aes_gcm_apb_regs.v
+rtl\gcm\aes_gcm_top.v
